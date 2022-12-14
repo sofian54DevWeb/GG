@@ -9,6 +9,8 @@
             player1.InfoPlayer();
             player2.InfoPlayer();
 
+            var dice = new Dice(0);
+            dice.diceRoll();
 
         }
     }
