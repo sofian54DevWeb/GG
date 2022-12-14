@@ -1,0 +1,15 @@
+C:\Users\sofia\source\repos\GameGoose\GameGoose\obj\Debug\net6.0\GameGoose.csproj.AssemblyReference.cache
+C:\Users\sofia\source\repos\GameGoose\GameGoose\obj\Debug\net6.0\GameGoose.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sofia\source\repos\GameGoose\GameGoose\obj\Debug\net6.0\GameGoose.AssemblyInfoInputs.cache
+C:\Users\sofia\source\repos\GameGoose\GameGoose\obj\Debug\net6.0\GameGoose.AssemblyInfo.cs
+C:\Users\sofia\source\repos\GameGoose\GameGoose\obj\Debug\net6.0\GameGoose.csproj.CoreCompileInputs.cache
+C:\Users\sofia\source\repos\GameGoose\GameGoose\bin\Debug\net6.0\GameGoose.exe
+C:\Users\sofia\source\repos\GameGoose\GameGoose\bin\Debug\net6.0\GameGoose.deps.json
+C:\Users\sofia\source\repos\GameGoose\GameGoose\bin\Debug\net6.0\GameGoose.runtimeconfig.json
+C:\Users\sofia\source\repos\GameGoose\GameGoose\bin\Debug\net6.0\GameGoose.dll
+C:\Users\sofia\source\repos\GameGoose\GameGoose\bin\Debug\net6.0\GameGoose.pdb
+C:\Users\sofia\source\repos\GameGoose\GameGoose\obj\Debug\net6.0\GameGoose.dll
+C:\Users\sofia\source\repos\GameGoose\GameGoose\obj\Debug\net6.0\refint\GameGoose.dll
+C:\Users\sofia\source\repos\GameGoose\GameGoose\obj\Debug\net6.0\GameGoose.pdb
+C:\Users\sofia\source\repos\GameGoose\GameGoose\obj\Debug\net6.0\GameGoose.genruntimeconfig.cache
+C:\Users\sofia\source\repos\GameGoose\GameGoose\obj\Debug\net6.0\ref\GameGoose.dll
